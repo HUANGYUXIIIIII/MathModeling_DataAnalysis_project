@@ -1,2 +1,20 @@
 # MathModeling_DataAnalysis_project
-Mathematical modeling competition &amp; data analysis personal project warehouse. As team leader &amp; paper writer, all Python modeling codes, competition papers, reusable thesis templates, LeetCode practice records and user behavior analysis demos are stored here
+## 个人简介
+本科数学专业，数学建模竞赛团队队长&论文主笔；团队训练覆盖A/B/C全部赛题类型，同步练习机理优化、建模统计两类主流解题方向；
+全程采用Python完成数值仿真、数据清洗、可视化分析，同步练习编程算法。
+
+## 仓库目录
+1. paper_template
+通用数模竞赛论文模板，内部后续会划分A/B/C子模板，包含各类模型数理推导、标准化三线表与绘图规范。
+2. code_demo
+可复用Python建模代码库：数值求解、参数优化、统计拟合、用户分层、时序预测脚本。
+3. training_competition
+48小时全真模拟赛完整存档，按A/B/C题型分档存放数据集、完整源码、竞赛终稿论文。
+
+## 配套编程算法练习
+4. leetcode_record
+算法刷题存档，存放解题代码与复盘笔记。
+
+## 项目说明
+完整覆盖数模全流程：
+题意分析→数学建模→代码求解→误差验证→结论可视化。
